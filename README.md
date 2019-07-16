@@ -3,22 +3,22 @@
 #
 ## Project Overview
 
-For the **Restaurant Reviews** projects, I will  convert a static webpage to a mobile-ready web application.
-  **First Step:** I converted the design to be responsive on different sized displays
-  **Second Step:** accessible for screen reader use.
-  **Third Step:** add a service worker to begin the process of creating a seamless offline experience for my users.
+For the **Restaurant Reviews** projects, I will  convert a static webpage to a mobile-ready web application.<br />
+  **First Step:** I converted the design to be responsive on different sized displays<br />
+  **Second Step:** accessible for screen reader use.<br />
+  **Third Step:** add a service worker to begin the process of creating a seamless offline experience for my users.<br />
 
 ### Instrucation
 
-From inside the new directory, launch a local client server using Python from your terminal: 
-Python 2: python -m SimpleHTTPServer 8000 
-Python 3: python3 -m http.server 8000
-Visit the site in your browser at http://localhost:8000
+From inside the new directory, launch a local client server using Python from your terminal: <br />
+Python 2: python -m SimpleHTTPServer 8000 <br />
+Python 3: python3 -m http.server 8000<br />
+Visit the site in your browser at http://localhost:8000<br />
 
-## I used Mapbox:
+#### I used Mapbox
 
 ## Resources:
-Udacity Courses
+Udacity Courses<br />
 Source:https://developers.google.com/web/
 
 
